@@ -1,0 +1,16 @@
+name: ZombieApocalypse
+version: 1.0
+api-version: 1.16 
+main: me.zombieApocalypse.main.Main
+description: zombies boutta wipe ur ass
+
+commands:
+  startWave:
+    description: start the waves
+  waveStop:
+    description: stop the waves
+  zombCustom:
+    description: customzomb spawning
+  noAI:
+    description: noAI
+  
